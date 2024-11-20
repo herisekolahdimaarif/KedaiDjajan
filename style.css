@@ -187,6 +187,10 @@
    nav {
      flex-direction: column;
    }
+
+   .logo{
+       margin-left: 20px
+   }
   
    .btn-order {
       margin-top: 10px;
